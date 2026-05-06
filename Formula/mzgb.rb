@@ -3,8 +3,8 @@ class Mzgb < Formula
 
   desc "Fast CLI for filtering very large log files by level, pattern, and time range"
   homepage "https://github.com/mukesudo/mzgb"
-  url "https://files.pythonhosted.org/packages/source/m/mzgb/mzgb-0.1.1.tar.gz"
-  sha256 "96dd66859ccbaa7e34cd91a3f06fb4c245fd023fae503f5aeea69da5361f73c3"
+  url "https://files.pythonhosted.org/packages/source/m/mzgb/mzgb-0.2.0.tar.gz"
+  sha256 "173288de0cf7d1ab6c2bb8e8901d54247455eae0d9820f67135e92361a736448"
   license "MIT"
 
   depends_on "python@3.11"
